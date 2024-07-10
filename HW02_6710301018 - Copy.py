@@ -10,7 +10,6 @@ Date: 2024-06-25
 if a<b:
     big=b
     small=a
-else:
     big=a
     small=b
 c=small
