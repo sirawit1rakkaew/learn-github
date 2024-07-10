@@ -6,8 +6,6 @@ STUD ID: 6710301018
 STUD Name: Sirawit Rakkaew
 Date: 2024-06-25
 """
-a=input("get A :")
-b=input("get B :")
 
 if a<b:
     big=b
